@@ -1,6 +1,9 @@
 A text file added
+<<<<<<< HEAD
 
 A first change in file
 
 A second change
 A third change
+=======
+>>>>>>> parent of dbf2939... first_change_updated in file1.txt
