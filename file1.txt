@@ -1,0 +1,6 @@
+A text file added
+
+A first change in file
+
+A second change
+A third change
