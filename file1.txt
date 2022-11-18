@@ -4,3 +4,5 @@ A first change in file
 
 A second change
 A third change
+
+a fourth change to see merging without conflict issue
