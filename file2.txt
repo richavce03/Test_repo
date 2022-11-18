@@ -3,4 +3,4 @@ creating this file in branch 2
 file updated
 
 changing file to see the conflict with b1 branch
-
+file again updated for no conflict issue
